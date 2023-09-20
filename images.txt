@@ -1,0 +1,2 @@
+what,C:\D drive\Projects\SignLang\1.jpg
+your,C:\D drive\Projects\SignLang\2.jpg
