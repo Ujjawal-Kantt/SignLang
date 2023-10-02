@@ -13,7 +13,7 @@ nice,C:\Users\samak\Downloads\SignLang\databse\nice.jpg
 type,C:\Users\samak\Downloads\SignLang\databse\type.jpg
 use,C:\Users\samak\Downloads\SignLang\databse\use.jpg
 what,C:\Users\samak\Downloads\SignLang\databse\what.jpg
-when,C:\Users\samak\Downloads\SignLang\databse\when.jpg
+when,C:\D drive\Projects\SignLang\databse\when.jpg
 where,C:\Users\samak\Downloads\SignLang\databse\where.jpg
 which,C:\Users\samak\Downloads\SignLang\databse\which.jpg
 who,C:\Users\samak\Downloads\SignLang\databse\who.jpg
