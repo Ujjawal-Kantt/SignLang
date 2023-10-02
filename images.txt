@@ -1,23 +1,22 @@
-what,C:\Users\samak\Downloads\SignLang\databse\what.jpg
-your,C:\Users\samak\Downloads\SignLang\databse\your.jpg
-across,C:\Users\samak\Downloads\SignLang\databse\across.jpg
-before,C:\Users\samak\Downloads\SignLang\databse\before.jpg
-bring,C:\Users\samak\Downloads\SignLang\databse\bring.jpg
-city,C:\Users\samak\Downloads\SignLang\databse\city.jpg
-high,C:\Users\samak\Downloads\SignLang\databse\high.jpg
-how,C:\Users\samak\Downloads\SignLang\databse\how.jpg
-in,C:\Users\samak\Downloads\SignLang\databse\in.jpg
-meet,C:\Users\samak\Downloads\SignLang\databse\meet.jpg
-name,C:\Users\samak\Downloads\SignLang\databse\name.jpg
-nice,C:\Users\samak\Downloads\SignLang\databse\nice.jpg
-type,C:\Users\samak\Downloads\SignLang\databse\type.jpg
-use,C:\Users\samak\Downloads\SignLang\databse\use.jpg
-what,C:\Users\samak\Downloads\SignLang\databse\what.jpg
+city,C:\D drive\Projects\SignLang\databse\city.jpg
+what,C:\D drive\Projects\SignLang\databse\what.jpg
+across,C:\D drive\Projects\SignLang\databse\across.jpg
+your,C:\D drive\Projects\SignLang\databse\across.jpg
+before,C:\D drive\Projects\SignLang\databse\before.jpg
+bring,C:\D drive\Projects\SignLang\databse\bring.jpg
+high,C:\D drive\Projects\SignLang\databse\high.jpg
+how,C:\D drive\Projects\SignLang\databse\how.jpg
+in,C:\D drive\Projects\SignLang\databse\in.jpg
+meet,C:\D drive\Projects\SignLang\databse\meet.jpg
+name,C:\D drive\Projects\SignLang\databse\name.jpg
+nice,C:\D drive\Projects\SignLang\databse\nice.jpg
+type,C:\D drive\Projects\SignLang\databse\type.jpg
+use,C:\D drive\Projects\SignLang\databse\use.jpg
 when,C:\D drive\Projects\SignLang\databse\when.jpg
-where,C:\Users\samak\Downloads\SignLang\databse\where.jpg
-which,C:\Users\samak\Downloads\SignLang\databse\which.jpg
-who,C:\Users\samak\Downloads\SignLang\databse\who.jpg
-why,C:\Users\samak\Downloads\SignLang\databse\why.jpg
-work,C:\Users\samak\Downloads\SignLang\databse\work.jpg
-you,C:\Users\samak\Downloads\SignLang\databse\you.jpg
-your,C:\Users\samak\Downloads\SignLang\databse\your.jpg
+where,C:\D drive\Projects\SignLang\databse\where.jpg
+which,C:\D drive\Projects\SignLang\databse\which.jpg
+who,C:\D drive\Projects\SignLang\databse\who.jpg
+why,C:\D drive\Projects\SignLang\databse\why.jpg
+work,C:\D drive\Projects\SignLang\databse\work.jpg
+you,C:\D drive\Projects\SignLang\databse\you.jpg
+your,C:\D drive\Projects\SignLang\databse\your.jpg
