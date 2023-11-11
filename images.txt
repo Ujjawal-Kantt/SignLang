@@ -10,6 +10,7 @@ in,C:\D drive\Projects\SignLang\databse\in.jpg
 meet,C:\D drive\Projects\SignLang\databse\meet.jpg
 name,C:\D drive\Projects\SignLang\databse\name.jpg
 nice,C:\D drive\Projects\SignLang\databse\nice.jpg
+house,C:\D drive\Projects\SignLang\databse\house.jpg
 type,C:\D drive\Projects\SignLang\databse\type.jpg
 use,C:\D drive\Projects\SignLang\databse\use.jpg
 when,C:\D drive\Projects\SignLang\databse\when.jpg
@@ -19,7 +20,7 @@ who,C:\D drive\Projects\SignLang\databse\who.jpg
 why,C:\D drive\Projects\SignLang\databse\why.jpg
 work,C:\D drive\Projects\SignLang\databse\work.jpg
 you,C:\D drive\Projects\SignLang\databse\you.jpg
-house,C:\D drive\Projects\SignLang\databse\house.jpg
+
 your,C:\D drive\Projects\SignLang\databse\your.jpg
 your,C:\D drive\Projects\SignLang\databse\your.jpg
 your,C:\D drive\Projects\SignLang\databse\your.jpg
