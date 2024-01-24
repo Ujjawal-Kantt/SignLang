@@ -1,2 +1,2 @@
-ggggggg# SignLang
+gggggg# SignLang
 This is java based sign language recognistion project.
